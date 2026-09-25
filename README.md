@@ -58,25 +58,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham-amin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-amin&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 I'm actively looking for junior frontend or React intern roles in Melbourne. Feel free to reach out!
 
 - 📧 sprathamamin23@gmail.com
-- 💼 [linkedin.com/in/pratham-sathish](https://www.linkedin.com/in/pratham-s-5a3856290/)
-- 🌐 [your-portfolio.vercel.app](https://portfolio-pratham-amin.vercel.app/)
+- 💼 [LinkedIn ](https://www.linkedin.com/in/pratham-s-5a3856290/)
+- 🌐 [Portfolio](https://portfolio-pratham-amin.vercel.app/)
 
 ---
 
