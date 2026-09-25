@@ -5,7 +5,7 @@
 ### Frontend Developer | React.js | MIT Student @ Deakin University
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pratham-amin.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pratham-s-5a3856290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-s-5a3856290/overlay/contact-info/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sprathamamin23@gmail.com)
 
 </div>
@@ -75,7 +75,7 @@
 I'm actively looking for junior frontend or React intern roles in Melbourne. Feel free to reach out!
 
 - 📧 sprathamamin23@gmail.com
-- 💼 [linkedin.com/in/pratham-sathish](linkedin.com/in/pratham-s-5a3856290)
+- 💼 [linkedin.com/in/pratham-sathish](https://www.linkedin.com/in/pratham-s-5a3856290/overlay/contact-info/)
 - 🌐 [your-portfolio.vercel.app](https://portfolio-pratham-amin.vercel.app/)
 
 ---
